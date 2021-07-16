@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0fc8f7c3-0876-4000-b733-835d50ec3db2" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XUvublmi2fpXlIk9EutG7cs1FC" />
+  <component name="PropertiesComponent">
+    <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="162" />
+    <property name="UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH" value="307" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1548859572902" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../CityEngine40" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.osgi.library.bundling" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="game" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Game">
+    <configuration name="Game" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.Game" />
+      <module name="EventsDemo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PolygonEditor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="game.PolygonEditor" />
+      <module name="EncapsulationDemo" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="game.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="TEST_OBJECT" value="class" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Game" />
+        <item itemvalue="Application.PolygonEditor" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0fc8f7c3-0876-4000-b733-835d50ec3db2" name="Default Changelist" comment="" />
+      <created>1548257924102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1548257924102</updated>
+      <workItem from="1548257925294" duration="63000" />
+      <workItem from="1548257990821" duration="385000" />
+      <workItem from="1548258793446" duration="252000" />
+      <workItem from="1548259432573" duration="19000" />
+      <workItem from="1548259612248" duration="39000" />
+      <workItem from="1548259744166" duration="179000" />
+      <workItem from="1548260084268" duration="144000" />
+      <workItem from="1548262783012" duration="57000" />
+      <workItem from="1548762078978" duration="3596000" />
+      <workItem from="1548859391462" duration="181000" />
+      <workItem from="1581113714622" duration="39000" />
+      <workItem from="1581113762322" duration="26000" />
+      <workItem from="1581113874298" duration="41000" />
+      <workItem from="1581113945711" duration="40000" />
+      <workItem from="1581114010125" duration="23000" />
+      <workItem from="1581114092039" duration="25000" />
+      <workItem from="1581114131164" duration="19000" />
+      <workItem from="1581114164975" duration="15000" />
+      <workItem from="1581114196988" duration="41000" />
+      <workItem from="1581114270526" duration="4070000" />
+      <workItem from="1581178452794" duration="154000" />
+      <workItem from="1581182775693" duration="1504000" />
+      <workItem from="1581254853650" duration="3303000" />
+      <workItem from="1581258382637" duration="146000" />
+      <workItem from="1581258571654" duration="1238000" />
+      <workItem from="1581260289203" duration="255000" />
+      <workItem from="1581261186600" duration="159000" />
+      <workItem from="1581262322459" duration="32000" />
+      <workItem from="1581269256480" duration="20000" />
+      <workItem from="1581580225589" duration="103000" />
+      <workItem from="1582151107578" duration="841000" />
+      <workItem from="1582153888380" duration="1265000" />
+      <workItem from="1582204738464" duration="5885000" />
+      <workItem from="1582583423669" duration="305000" />
+      <workItem from="1583340825337" duration="18708000" />
+      <workItem from="1583409951203" duration="15170000" />
+      <workItem from="1584583312948" duration="22198000" />
+      <workItem from="1584764553957" duration="9730000" />
+      <workItem from="1584853668250" duration="6960000" />
+      <workItem from="1584863986751" duration="3423000" />
+      <workItem from="1584898214731" duration="2044000" />
+      <workItem from="1584900369058" duration="5174000" />
+      <workItem from="1584934506614" duration="85000" />
+      <workItem from="1585042843292" duration="12940000" />
+      <workItem from="1585078883450" duration="551000" />
+      <workItem from="1585081981893" duration="4837000" />
+      <workItem from="1585108843325" duration="4711000" />
+      <workItem from="1585205707458" duration="839000" />
+      <workItem from="1585261497082" duration="361000" />
+      <workItem from="1585455498689" duration="7818000" />
+      <workItem from="1605221429448" duration="365000" />
+      <workItem from="1608775707757" duration="1126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
